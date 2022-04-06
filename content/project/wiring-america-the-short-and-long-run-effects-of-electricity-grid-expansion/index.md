@@ -14,6 +14,7 @@ tags:
   - Market Power
   - Emissions
 links: []
+url_pdf: "uploads/JMP_Draft_GD.pdf"
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
