@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Job Market Paper
+    tag: Job Market Paper
   - name: Other
     tag: Demo
 
