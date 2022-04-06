@@ -6,7 +6,7 @@ summary: I study the impact of grid expansion on on market power and emissions
   from the fossil fuel industry in the short-run and effects on investment in
   wind energy in the long-run.
 draft: true
-featured: false
+featured: true
 authors:
   - Gaurav Doshi
 tags:
