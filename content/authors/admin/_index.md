@@ -57,7 +57,7 @@ email: ""
 highlight_name: true
 ---
 
-I’m a PhD student at the Department of Agricultural & Applied Economics at the University of Wisconsin-Madison.
+Hello! I’m a PhD student at the Department of Agricultural & Applied Economics at the University of Wisconsin-Madison.
 
 My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US.
 
