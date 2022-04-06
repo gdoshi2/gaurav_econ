@@ -1,6 +1,6 @@
 ---
 # Display name
-title: []
+title: Gaurav Doshi
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,11 +29,11 @@ education: []
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:gdoshi2@wisc.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gaurav_doshi9
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=hOwZGf0AAAAJ&hl=en
 - icon: github
