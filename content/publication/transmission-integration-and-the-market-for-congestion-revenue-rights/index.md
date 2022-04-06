@@ -2,10 +2,13 @@
 title: Transmission Integration and the Market for Congestion Revenue Rights
 publication_types:
   - "2"
+  - "0"
 authors:
   - Gaurav Doshi
   - Sheldon Du
 doi: 10.5547/01956574.42.5.gdos
+publication: ""
+publication_short: ""
 abstract: Texas electricity market saw a recent integration of electricity
   transmission as a part of Competitive Renewable Energy Zones (CREZ).
   Exploiting the commissioning date of CREZ based transmission integration as an
