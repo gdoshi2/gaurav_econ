@@ -20,7 +20,7 @@ abstract: Texas electricity market saw a recent integration of electricity
   enhanced efficiency of the CRR market in terms of a spatial convergence in
   prices and a decrease in aggregate auction expenditure of approximately $260
   million over a period of 4.5 years post CREZ.
-draft: true
+draft: false
 featured: false
 tags:
   - Congestion Revenue Rights
