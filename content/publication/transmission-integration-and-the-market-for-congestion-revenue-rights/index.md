@@ -5,7 +5,7 @@ publication_types:
   - "0"
 authors:
   - Gaurav Doshi
-  - Sheldon Du
+  - Sheldon (Xiaodong) Du
 doi: 10.5547/01956574.42.5.gdos
 publication: The Energy Journal
 publication_short: ""
@@ -33,3 +33,5 @@ image:
   preview_only: false
 date: 2022-04-06T20:37:36.878Z
 ---
+
+abc
