@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Gaurav Doshi
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD student in Applied Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Univeristy of Wisconsin Madison
+  url: https://www.wisc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include energy and environmental economics, and industrial organization.
 
 # Interests to show in About widget
 interests:
@@ -70,8 +70,10 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a PhD student at the Department of Agricultural & Applied Economics at the University of Wisconsin-Madison.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2[at]wisc[dot]edu!
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
