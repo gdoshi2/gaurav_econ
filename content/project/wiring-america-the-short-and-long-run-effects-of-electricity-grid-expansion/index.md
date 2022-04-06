@@ -2,13 +2,14 @@
 title: "Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion"
 subtitle: Job Market Paper
 date: 2022-04-05T21:53:22.536Z
-summary: I study the impact of grid expansion on on market power and emissions
+summary: In my job market paper, I study the impact of grid expansion on on market power and emissions
   from the fossil fuel industry in the short-run and effects on investment in
   wind energy in the long-run.
 draft: false
 authors:
   - Gaurav Doshi
 tags:
+  - Job Market Paper
   - Grid Expansion
   - Wind Investment
   - Market Power
