@@ -46,9 +46,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/CV_GD_2022.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: uploads/CV_GD_2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,4 +63,4 @@ My research interests are in Energy and Environmental Economics, and Industrial 
 
 If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2[at]wisc[dot]edu!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_GD_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
