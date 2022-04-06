@@ -13,12 +13,12 @@ subtitle:
 
 content:
   # Automatically link email and phone or display as text?
-  autolink: true
+  autolink: false
   
   # Contact details (edit or remove options as required)
-  email: gdoshi2@wisc.edu
-  address: 221 Taylor Hall
-    street: 427 Lorch Street
+  email: gdoshi2[at]wisc[dot]edu
+  address: 
+    street: 221 Taylor Hall, 427 Lorch Street
     city: Madison
     region: WI
     postcode: '53706'
