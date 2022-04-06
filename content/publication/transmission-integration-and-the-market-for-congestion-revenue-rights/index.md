@@ -7,7 +7,7 @@ authors:
   - Gaurav Doshi
   - Sheldon Du
 doi: 10.5547/01956574.42.5.gdos
-publication: ""
+publication: The Energy Journal
 publication_short: ""
 abstract: Texas electricity market saw a recent integration of electricity
   transmission as a part of Competitive Renewable Energy Zones (CREZ).
