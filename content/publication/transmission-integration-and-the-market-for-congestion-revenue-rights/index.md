@@ -9,7 +9,7 @@ authors:
 doi: 10.5547/01956574.42.5.gdos
 publication: The Energy Journal
 publication_short: ""
-url_pdf = "uploads/DoshiDu_EJ_wappendix.pdf"
+url_pdf: "uploads/DoshiDu_EJ_wappendix.pdf"
 abstract: Texas electricity market saw a recent integration of electricity
   transmission as a part of Competitive Renewable Energy Zones (CREZ).
   Exploiting the commissioning date of CREZ based transmission integration as an
