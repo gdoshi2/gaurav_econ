@@ -11,7 +11,7 @@ authors:
   - Gaurav Doshi
 weight: 1
 tags:
-  - Job Market Paper
+  - Electricity
   - Grid Expansion
   - Wind Investment
   - Market Power
