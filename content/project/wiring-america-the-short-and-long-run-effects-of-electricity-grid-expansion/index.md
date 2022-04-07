@@ -1,6 +1,7 @@
 ---
 draft: false
 url_pdf: uploads/JMP_Draft_GD.pdf
+url_slides: uploads/JMP_Presentation_75_min.pdf
 title: "Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion"
 subtitle: Job Market Paper
 date: 2022-04-05T21:53:22.536Z
