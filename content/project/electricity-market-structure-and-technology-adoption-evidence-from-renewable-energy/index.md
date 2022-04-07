@@ -15,6 +15,7 @@ tags:
   - Technology Adoption
   - Wind
   - Solar
+  - PPA
 image:
   filename: featured
   focal_point: Smart
