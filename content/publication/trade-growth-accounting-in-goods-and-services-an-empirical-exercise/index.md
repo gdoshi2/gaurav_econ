@@ -20,6 +20,7 @@ abstract: This chapter explores the reasons behind trade growth in goods and
   we consider the 61 trading partners for which data is available.
 draft: false
 featured: false
+url_pdf: uploads/Trade_Costs_Paper.pdf
 tags:
   - Other
 image:
