@@ -6,12 +6,12 @@ summary: We study whether electricity market deregulation leads to technology
   adoption in the wind and solar industries?
 draft: false
 featured: false
-weight: 2
 authors:
   - Gaurav Doshi
   - Sarah Johnston
+weight: 2
 tags:
-  - Restructuring
+  - Market Restructuring
   - Technology Adoption
   - Wind
   - Solar
