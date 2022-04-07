@@ -16,6 +16,8 @@ tags:
   - Wind Investment
   - Market Power
   - Emissions
+  - CREZ
+  - Market Integration
 links: []
 image:
   caption: CREZ Expansion in Texas
