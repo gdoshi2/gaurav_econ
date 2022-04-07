@@ -1,7 +1,6 @@
 ---
 draft: false
 url_pdf: uploads/JMP_Draft_GD.pdf
-url_slides: uploads/JMP_Presentation_75_min.pdf
 title: "Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion"
 subtitle: Job Market Paper
 date: 2022-04-05T21:53:22.536Z
@@ -10,6 +9,7 @@ summary: In my job market paper, I study the impact of grid expansion on on
   effects on investment in wind energy in the long-run.
 authors:
   - Gaurav Doshi
+url_slides: uploads/JMP_Presentation_75_min.pdf
 weight: 1
 tags:
   - Electricity
@@ -18,7 +18,7 @@ tags:
   - Market Power
   - Emissions
   - CREZ
-  - Market Integration
+  - Job Market Paper
 links: []
 image:
   caption: CREZ Expansion in Texas
