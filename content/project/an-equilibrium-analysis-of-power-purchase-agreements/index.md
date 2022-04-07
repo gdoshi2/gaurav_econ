@@ -5,6 +5,7 @@ summary: We study the how wholesale electricity price and market volatility
   affect the equilibrium prices of Power Purchase Agreements in the US.
 draft: false
 featured: false
+weight: 3
 authors:
   - Yeonju Baik
   - Gaurav Doshi
