@@ -6,6 +6,7 @@ summary: In my job market paper, I study the impact of grid expansion on on mark
   from the fossil fuel industry in the short-run and effects on investment in
   wind energy in the long-run.
 draft: false
+weight: 1
 authors:
   - Gaurav Doshi
 tags:
