@@ -9,7 +9,6 @@ authors:
 doi: 10.5547/01956574.42.5.gdos
 publication: The Energy Journal
 publication_short: ""
-url_pdf: "uploads/DoshiDu_EJ_wappendix.pdf"
 abstract: Texas electricity market saw a recent integration of electricity
   transmission as a part of Competitive Renewable Energy Zones (CREZ).
   Exploiting the commissioning date of CREZ based transmission integration as an
@@ -22,6 +21,7 @@ abstract: Texas electricity market saw a recent integration of electricity
   prices and a decrease in aggregate auction expenditure of approximately $260
   million over a period of 4.5 years post CREZ.
 draft: false
+url_pdf: uploads/DoshiDu_EJ_wappendix.pdf
 featured: false
 tags:
   - Congestion Revenue Rights
@@ -32,5 +32,5 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-04-06T20:37:36.878Z
+date: 2022-04-07T06:33:00.000Z
 ---
