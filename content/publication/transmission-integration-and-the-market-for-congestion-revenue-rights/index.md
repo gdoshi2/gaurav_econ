@@ -27,7 +27,7 @@ tags:
   - Congestion Revenue Rights
   - CREZ
   - Market Integration
-  - Transmission Expansion
+  - Grid Expansion
 image:
   filename: ""
   focal_point: Smart
