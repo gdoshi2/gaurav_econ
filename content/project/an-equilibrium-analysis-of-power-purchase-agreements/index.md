@@ -1,8 +1,9 @@
 ---
 title: An Equilibrium Analysis of Power Purchase Agreements
 date: 2022-04-06T22:45:43.733Z
-summary: We study the how wholesale electricity price and market volatility
-  affect the equilibrium prices of Power Purchase Agreements in the US.
+summary: We study how wholesale prices and volatility in the electricity market
+  affect the equilibrium prices of long term contracts (Power Purchase
+  Agreements) in the renewable sector in the US.
 draft: false
 featured: false
 authors:
