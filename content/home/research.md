@@ -30,7 +30,7 @@ content:
   - name: Job Market Paper
     tag: Job Market Paper
   - name: Other
-    tag: Demo
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
