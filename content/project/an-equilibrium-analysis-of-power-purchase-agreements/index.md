@@ -13,7 +13,7 @@ weight: 3
 tags:
   - PPA
   - Wind
-  - Electricity Market
+  - Electricity Markets
   - Volatility
 image:
   filename: featured
