@@ -13,8 +13,8 @@ weight: 3
 tags:
   - PPA
   - Wind
-  - Electricity
-  - Risk
+  - Electricity Market
+  - Volatility
 image:
   filename: featured
   focal_point: Smart
