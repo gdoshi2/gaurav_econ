@@ -1,8 +1,7 @@
 ---
-title: "Electricity Market Structure and Technology Adoption: Evidence from
-  Renewable Energy"
+title: Market Structure and Technology Adoption in Renewable Energy
 date: 2022-04-06T22:42:09.871Z
-summary: We study whether electricity market deregulation leads to technology
+summary: We study whether competition in electricity markets leads to technology
   adoption in the wind and solar industries?
 draft: false
 featured: false
@@ -13,12 +12,11 @@ weight: 2
 tags:
   - Market Restructuring
   - Technology Adoption
-  - Wind
-  - Solar
+  - Renewable Energy
   - PPA
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 ---
-This paper examines the effects of electricity market deregulation and long term contracting on technology adoption. Using data on all US solar and wind projects from 2001-2020, we estimate models of technology adoption as a function of market structure and other characteristics. Results indicate that solar projects in deregulated markets are 15 percent less likely to adopt tracking panels than projects in regulated markets. For the wind industry, we find that long term contracting plays a major role in technology adoption. We do not find evidence that competition promotes technology adoption, but it may hinder adoption if it reduces the use of long-term contracts.
+We study the effects of market structure on technology adoption in the wind and solar power industries. Using data on all US solar and wind projects from 2001-2020, we estimate models of technology adoption as a function of whether the project is located in a restructured electricity market. Restructured markets allow for more competition than traditional markets, which are dominated by regulated monopolists. We find that solar and wind projects in restructured markets are less likely to adopt frontier technology than projects in traditional markets. For the wind industry, we find that long-term contracting plays a major role in promoting technology adoption. Overall, we find no evidence that competition promotes technology adoption, and it may hinder adoption if it reduces the use of long-term contracts.
