@@ -29,9 +29,10 @@ tags:
   - Market Integration
   - Grid Expansion
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Smart
-  preview_only: false
-summary: abc xyz
+  preview_only: true
+summary: ""
 date: 2021-09-01
 ---
+![](featured.jpg "Drop in average CRR prices post CREZ transmission expansion in 2014")
