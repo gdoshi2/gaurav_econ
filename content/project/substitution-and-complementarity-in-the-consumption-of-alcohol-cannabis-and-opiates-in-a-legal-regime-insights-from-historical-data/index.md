@@ -13,9 +13,11 @@ authors:
 tags:
   - Other
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+  caption: Real Price and Per Capita Consumption of Alcohol, Opium, Cannabis Bud,
+    and Cannabis Leaf
 ---
 **Aim**: We study whether consumers treat alcohol, cannabis, and opiates as substitutes or complements in a legal regime. We also show evidence of habit formation consistent with addiction and responsiveness towards the prices of these substances. 
 
