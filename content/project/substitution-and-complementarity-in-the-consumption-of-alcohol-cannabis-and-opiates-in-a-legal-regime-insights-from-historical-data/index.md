@@ -15,7 +15,7 @@ tags:
 image:
   filename: featured.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
   caption: Real Price and Per Capita Consumption of Alcohol, Opium, Cannabis Bud,
     and Cannabis Leaf
 ---
