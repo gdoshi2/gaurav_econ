@@ -19,12 +19,12 @@ image:
   caption: Real Price and Per Capita Consumption of Alcohol, Opium, Cannabis Bud,
     and Cannabis Leaf
 ---
-**Aim**: We study whether consumers treat alcohol, cannabis, and opiates as substitutes or complements in a legal regime. We also show evidence of habit formation consistent with addiction and responsiveness towards the prices of these substances. 
+**Aim**: Understanding the behavior of populations of drug consumers has been and remains a topic of keen interest to researchers. We analyze the following set of research questions of contemporary interest. The first is whether consumers treat alcohol, cannabis, and opiates as substitutes or complements in a legal regime. Second, we explore evidence of habit formation consistent with addiction and responsiveness to changes in prices of these substances. 
 
-**Methods**: We model consumption of alcohol, *bhang* (cannabis leaf), *ganja* (cannabis bud), and opium as a function of past consumption, own prices, the prices of other substances, and wages using dynamic panel data methods. We use data on twenty-five districts from Bengal, India, from 1911 to 1925 for estimation.
+**Methods**: Using data on twenty-five districts from Bengal, India, from 1911 to 1925, we model consumption of alcohol, *bhang* (cannabis leaf), *ganja* (cannabis bud), and opium as functions of past consumption, own prices, prices of other substances, and wages using dynamic panel data methods. 
 
-**Results**: Consistent with the literature, we find evidence of habit formation for all these substances. Analysis shows that alcohol is a substitute for cannabis bud and a complement for cannabis leaf and opium. Cannabis leaf is a compliment for alcohol and a substitute for cannabis bud, however, neither cannabis bud nor opium consumption respond to changes in the prices of other substances. Further consumption of alcohol, opium, and cannabis leaf is unresponsive to its own price, and alcohol, cannabis bud, and opium are unresponsive to changes in wages. 
+**Results**: Consistent with the literature, we find evidence (i) of habit formation for all of these substance, and that (ii) alcohol is a substitute for cannabis bud and a complement for cannabis leaf and opium, (iii) cannabis leaf is a complement for alcohol and a substitute for cannabis bud, but neither cannabis bud nor opium consumption responds to changes in the prices of other substances, (iv) consumption of alcohol, opium, and cannabis leaf are only slightly responsive to their own prices, and (v) alcohol, cannabis bud, and opium are only slightly responsive to changes in wages. 
 
-**Conclusions**: Alcohol consumption is interrelated with the consumption of all three other substances. Three drugs display limited price or wage responsiveness. Therefore, understanding these substances' consumption patterns can inform harm reduction strategies.
+**Conclusions**: Alcohol consumption is interrelated with the consumption of all three other substances. Three drugs display limited price or wage responsiveness. Understanding how the consumption patterns of these substances respond to economic incentives informed harm reduction strategies in the early 20th century and can continue to do so.
 
 ![](featured.png "Real Price and Per Capita Consumption of Alcohol, Opium, Cannabis Bud, and Cannabis Leaf")
