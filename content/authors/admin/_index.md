@@ -31,8 +31,8 @@ highlight_name: true
 ---
 Hello! I’m a PhD student at the Department of Agricultural & Applied Economics at the University of Wisconsin-Madison.
 
-My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US. If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2\[at]wisc\[dot]edu!
+My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US. If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2\[at]wisc.edu
 
-I am on the 2022-23 Job Market and will be available for meetings at the ASSA 2023 Annual Meeting.
+I am on the 2022-23 job market and will be available for interviews virtually at the 2023 ASSA Annual Meeting.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_GD_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
