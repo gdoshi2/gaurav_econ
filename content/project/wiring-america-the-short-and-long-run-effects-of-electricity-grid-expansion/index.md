@@ -12,7 +12,7 @@ summary: Electricity grid expansion is a key policy tool to accelerate the
 featured: true
 authors:
   - Gaurav Doshi
-url_slides: uploads/JMP_Presentation_75_min.pdf
+url_slides: uploads/JMP_Presentation_25_min.pdf
 weight: 1
 tags:
   - Electricity Markets
