@@ -35,4 +35,4 @@ image:
 summary: ""
 date: 2021-09-01
 ---
-![](featured.jpg "Drop in average CRR prices post CREZ transmission expansion in 2014")
+![](featured.jpg "Drop in average CRR prices post transmission expansion in 2014")
