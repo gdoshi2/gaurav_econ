@@ -14,6 +14,7 @@ tags:
   - CREZ
   - Market Integration
   - Grid Expansion
+external_link: https://www.gauravecon.com/publication/transmission-integration-and-the-market-for-congestion-revenue-rights/
 links: []
 image:
   filename: featured.jpg
