@@ -1,5 +1,6 @@
 ---
 url_pdf: uploads/DoshiDu_EJ_wappendix.pdf
+doi: 10.5547/01956574.42.5.gdos
 title: Transmission Integration and the Market for Congestion Revenue Rights
 date: 2022-10-14T20:29:01.329Z
 summary: We study whether electricity transmission expansion lowers the cost of
