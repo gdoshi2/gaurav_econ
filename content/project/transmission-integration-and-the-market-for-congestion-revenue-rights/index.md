@@ -1,11 +1,12 @@
 ---
+url_pdf: uploads/DoshiDu_EJ_wappendix.pdf
 title: Transmission Integration and the Market for Congestion Revenue Rights
 date: 2022-10-14T20:29:01.329Z
-summary: W﻿e study whether electricity transmission expansion lowers the cost of
+summary: We study whether electricity transmission expansion lowers the cost of
   hedging risk in wholesale electricity markets. This paper is published in *The
   Energy Journal*.
 draft: false
-featured: false
+featured: true
 authors:
   - Gaurav Doshi
   - Sheldon (Xiaodong) Du
