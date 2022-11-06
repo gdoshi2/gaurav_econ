@@ -2,7 +2,8 @@
 title: Market Structure and Technology Adoption in Renewable Energy
 date: 2022-04-06T22:42:09.871Z
 summary: We study whether competition in electricity markets affects the
-  adoption of frontier technology in the wind and solar industries.
+  adoption of frontier technology in the wind and solar industries. *(Working
+  paper coming soon!)*
 draft: false
 featured: false
 authors:
