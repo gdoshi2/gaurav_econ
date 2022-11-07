@@ -1,4 +1,6 @@
 ---
+draft: false
+url_pdf: uploads/Bengal_Drug_Paper.pdf
 title: "Substitution and Complementarity in the Consumption of Alcohol,
   Cannabis, and Opiates in a Legal Regime: Insights from Historical Data"
 date: 2022-06-18T16:32:00.738Z
