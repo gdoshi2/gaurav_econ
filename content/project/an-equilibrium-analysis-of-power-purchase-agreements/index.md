@@ -2,7 +2,7 @@
 title: An Equilibrium Analysis of Power Purchase Agreements
 date: 2022-04-06T22:45:43.733Z
 summary: We explore the link between wholesale electricity market volatility and
-  prices of long-term contracts for renewable projects.
+  prices of long-term contracts for renewable projects. *(working paper coming soon!)*
 draft: false
 featured: false
 authors:
