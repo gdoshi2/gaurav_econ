@@ -31,6 +31,8 @@ highlight_name: true
 ---
 Hello! I’m a PhD student at the Department of Agricultural & Applied Economics at the University of Wisconsin-Madison.
 
-My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US. If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2\[at]wisc.edu
+My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US. 
+
+In August 2023, I will join the School of Economics at Georgia Institute of Technology as an Assistant Professor. If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2\[at]wisc.edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_GD_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
