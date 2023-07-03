@@ -1,7 +1,7 @@
 ---
 title: Gaurav Doshi
 role: PhD student in Applied Economics
-avatar_filename: img_5243.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include energy and environmental economics, and
   industrial organization.
 interests: []
@@ -29,10 +29,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hello! I’m a PhD student at the Department of Agricultural & Applied Economics at the University of Wisconsin-Madison.
+Hello! I’m an incoming Assistant Professor in the [School of Economics](https://econ.gatech.edu/) at Georgia Institute of Technology. My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US. 
 
-My research interests are in Energy and Environmental Economics, and Industrial Organization. My current work assesses the impact of energy policies on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US. 
+I hold a PhD in [Applied Economics](https://aae.wisc.edu/) from the University of Wisconsin-Madison, and B.S. & M.S.  in [Economics](https://iitk.ac.in/eco/) from the Indian Institute of Technology Kanpur.
 
-In August 2023, I will join the School of Economics at Georgia Institute of Technology as an Assistant Professor. If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2\[at]wisc.edu
+If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi2\[at]wisc.edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_GD_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
