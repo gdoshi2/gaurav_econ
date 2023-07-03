@@ -1,6 +1,6 @@
 ---
 title: Gaurav Doshi
-role: PhD student in Applied Economics
+role: ""
 avatar_filename: avatar.jpg
 bio: My research interests include energy and environmental economics, and
   industrial organization.
