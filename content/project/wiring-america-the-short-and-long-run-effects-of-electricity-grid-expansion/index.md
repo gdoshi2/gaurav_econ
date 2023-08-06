@@ -20,8 +20,6 @@ tags:
   - Wind
   - Market Power
   - Emissions
-  - CREZ
-  - Job Market Paper
 links: []
 image:
   caption: CREZ Expansion in Texas
