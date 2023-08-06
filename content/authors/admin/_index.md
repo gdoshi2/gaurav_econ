@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:gdoshi2@wisc.edu
+    link: mailto:gdoshi@gatech.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/gaurav_doshi9
