@@ -7,8 +7,7 @@ date: 2022-04-05T21:53:22.536Z
 summary: Electricity grid expansion is a key policy tool to accelerate the
   transition to green energy and lower carbon emissions. I study the impact of
   grid expansion on market power and emissions from the fossil fuel industry in
-  the short-run and investment in wind energy in the long-run. [**Job Market
-  Paper**]
+  the short-run and investment in wind energy in the long-run.
 featured: true
 authors:
   - Gaurav Doshi
