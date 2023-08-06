@@ -31,7 +31,7 @@ highlight_name: true
 ---
 Hello! I’m an Assistant Professor in the [School of Economics](https://econ.gatech.edu/) at Georgia Institute of Technology. My research interests are in energy and environmental economics, and industrial organization. My current work assesses the impacts of energy policy on fossil fuel firm behavior, incentives to technology adoption in the renewable sector, and the transition to renewable energy in the US. 
 
-I hold a PhD in [Applied Economics](https://aae.wisc.edu/) from the University of Wisconsin-Madison, and B.S. & M.S.  in [Economics](https://iitk.ac.in/eco/) from the Indian Institute of Technology Kanpur.
+I hold a PhD in [Applied Economics](https://aae.wisc.edu/) from the University of Wisconsin-Madison, and B.S. & M.S.  in [Economics](https://iitk.ac.in/eco/) from the Indian Institute of Technology-Kanpur.
 
 If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi\[at]gatech.edu
 
