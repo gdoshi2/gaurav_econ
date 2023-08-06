@@ -1,6 +1,6 @@
 ---
 title: Gaurav Doshi
-role: ""
+role: Assistant Professor of Economics
 avatar_filename: avatar.jpg
 bio: My research interests include energy and environmental economics, and
   industrial organization.
