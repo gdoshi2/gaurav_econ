@@ -2,7 +2,7 @@
 draft: false
 url_pdf: uploads/JMP_Draft_GD.pdf
 title: "Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion"
-subtitle: Job Market Paper
+subtitle: ""
 date: 2022-04-05T21:53:22.536Z
 summary: Electricity grid expansion is a key policy tool to accelerate the
   transition to green energy and lower carbon emissions. I study the impact of
