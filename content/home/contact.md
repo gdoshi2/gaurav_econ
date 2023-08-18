@@ -16,12 +16,12 @@ content:
   autolink: false
   
   # Contact details (edit or remove options as required)
-  email: gdoshi2[at]wisc[dot]edu
+  email: gdoshi[at]gatech[dot]edu
   address: 
-    street: 221 Taylor Hall, 427 Lorch Street
-    city: Madison
-    region: WI
-    postcode: '53706'
+    street: Old C.E. Building, 221 Bobby Dodd Way
+    city: Atlanta
+    region: GA
+    postcode: '30332'
     country: United States
     country_code: US
 
