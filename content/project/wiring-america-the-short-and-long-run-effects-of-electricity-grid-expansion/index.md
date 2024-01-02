@@ -1,6 +1,6 @@
 ---
 draft: false
-url_pdf: uploads/JMP_Draft_GD.pdf
+url_pdf: uploads/Wiring_America_Doshi.pdf
 title: "Wiring America: The Short- and Long-Run Effects of Electricity Grid Expansion"
 subtitle: ""
 date: 2022-04-05T21:53:22.536Z
@@ -11,7 +11,6 @@ summary: Electricity grid expansion is a key policy tool to accelerate the
 featured: true
 authors:
   - Gaurav Doshi
-url_slides: uploads/JMP_Presentation_25_min.pdf
 weight: 1
 tags:
   - Electricity Markets
