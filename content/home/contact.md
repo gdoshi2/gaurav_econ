@@ -17,8 +17,8 @@ content:
   
   # Contact details (edit or remove options as required)
   email: gdoshi[at]gatech[dot]edu
-  address: 
-    street: Old C.E. Building, 221 Bobby Dodd Way
+  address: Old C.E. Building, Office 209
+    street: 221 Bobby Dodd Way
     city: Atlanta
     region: GA
     postcode: '30332'
