@@ -1,8 +1,7 @@
 ---
 draft: false
 url_pdf: uploads/Chicken_and_egg.pdf
-title: "Chicken and the Egg: Electricity Transmission and Investment in
-  Renewable Energy"
+title: "Chicken and Egg: Electricity Transmission and Investment in Renewable Energy"
 date: 2024-08-08T15:49:53.090Z
 summary: T﻿his paper provides evidence of the impact of grid expansion on
   long-term investment in wind energy. The resulting benefits include decreased
