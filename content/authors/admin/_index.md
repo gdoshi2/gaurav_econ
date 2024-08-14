@@ -35,4 +35,4 @@ I hold a PhD in [Applied Economics](https://aae.wisc.edu/) from the University o
 
 If you’re interested in talking about my work, or yours, please feel free to contact me at gdoshi\[at]gatech.edu
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
