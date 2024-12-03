@@ -2,12 +2,9 @@
 title: Transmission Integration and the Market for Congestion Revenue Rights
 publication_types:
   - "2"
-  - "0"
-type: "journal"
 authors:
   - Gaurav Doshi
   - Sheldon (Xiaodong) Du
-doi: 10.5547/01956574.42.5.gdos
 publication: The Energy Journal
 publication_short: ""
 abstract: Texas electricity market saw a recent integration of electricity
@@ -23,6 +20,7 @@ abstract: Texas electricity market saw a recent integration of electricity
   million over a period of 4.5 years post CREZ.
 draft: false
 url_pdf: uploads/DoshiDu_EJ_wappendix.pdf
+doi: 10.5547/01956574.42.5.gdos
 featured: false
 tags:
   - Congestion Revenue Rights
@@ -35,5 +33,6 @@ image:
   preview_only: true
 summary: ""
 date: 2021-09-01
+type: journal
 ---
 ![](featured.jpg "Drop in average CRR prices post transmission expansion in 2014")
