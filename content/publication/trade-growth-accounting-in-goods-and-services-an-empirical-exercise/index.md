@@ -2,7 +2,6 @@
 title: "Trade Growth Accounting in Goods and Services: An Empirical Exercise"
 publication_types:
   - "6"
-  - "0"
 authors:
   - Somesh K. Mathur
   - Sarabjit Singh
@@ -19,8 +18,8 @@ abstract: This chapter explores the reasons behind trade growth in goods and
   look at the case of India and APEC countries, and for trade costs in services
   we consider the 61 trading partners for which data is available.
 draft: false
-featured: false
 url_pdf: uploads/Trade_Costs_Paper.pdf
+featured: false
 tags:
   - Other
 image:
