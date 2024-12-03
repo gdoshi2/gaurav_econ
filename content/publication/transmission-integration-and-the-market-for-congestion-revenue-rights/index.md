@@ -3,6 +3,7 @@ title: Transmission Integration and the Market for Congestion Revenue Rights
 publication_types:
   - "2"
   - "0"
+type: "journal"
 authors:
   - Gaurav Doshi
   - Sheldon (Xiaodong) Du
