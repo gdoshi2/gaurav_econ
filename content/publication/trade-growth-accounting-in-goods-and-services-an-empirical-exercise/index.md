@@ -1,9 +1,8 @@
 ---
 title: "Trade Growth Accounting in Goods and Services: An Empirical Exercise"
 publication_types:
-  - "5"
+  - "6"
   - "0"
-type: "book"
 authors:
   - Somesh K. Mathur
   - Sarabjit Singh
