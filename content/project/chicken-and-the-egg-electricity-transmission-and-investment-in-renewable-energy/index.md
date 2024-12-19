@@ -5,7 +5,8 @@ title: "Chicken and Egg: Electricity Transmission and Investment in Renewable En
 date: 2024-08-08T15:49:53.090Z
 summary: T﻿his paper provides evidence of the impact of grid expansion on
   long-term investment in wind energy. The resulting benefits include decreased
-  emissions from fossil fuel sector and increased lease payments to landowners.
+  emissions from the fossil fuel sector and increased lease payments to
+  landowners. (Revise and Resubmit at the *Journal of Public Economics*)
 featured: true
 authors:
   - Gaurav Doshi
